@@ -56,7 +56,7 @@ A Python-based weather analytics platform that provides comprehensive weather da
 1. **Clone the repository**
    ```bash
    git clone https://github.com/r3dd33d/weatherAppD
-   cd weather-analytics
+   cd weatherAppD
    ```
 
 2. **Create a virtual environment** (recommended)
