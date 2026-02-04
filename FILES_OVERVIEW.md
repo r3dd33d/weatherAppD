@@ -113,13 +113,6 @@ api_key = "YOUR_OPENWEATHERMAP_API_KEY_HERE"
 
 ## 📖 Guides
 
-### `QUICKSTART.md` ⚡
-**Quick Start**
-- 3 simple steps
-- Run in 5 minutes
-- Common issues
-- For those who want to start quickly
-
 ### `README.md` 📚
 **Full Documentation**
 - Project description
